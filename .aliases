@@ -2,6 +2,7 @@ alias x='clear'
 alias s='npm run start'
 alias lss='la -ls'
 
+alias gr='git recent'
 alias gcom='git checkout master'
 alias com='gcom'
 alias gpom='git pull origin master'
