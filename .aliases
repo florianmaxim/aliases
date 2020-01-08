@@ -3,6 +3,8 @@ alias s='npm run start'
 alias lss='la -ls'
 
 alias gr='git recent'
+alias gbr='git rev-parse --abbrev-ref HEAD'
+alias cgbr='git rev-parse --abbrev-ref HEAD | pbcopy'
 
 alias gcom='git checkout master'
 alias com='gcom'
